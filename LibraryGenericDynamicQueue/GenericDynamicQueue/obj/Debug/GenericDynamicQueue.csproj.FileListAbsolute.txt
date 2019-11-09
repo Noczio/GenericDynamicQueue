@@ -1,0 +1,12 @@
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\bin\Debug\GenericDynamicQueue.dll
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\bin\Debug\GenericDynamicQueue.pdb
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.dll
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.pdb
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\bin\Debug\GenericDynamicQueue.dll
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\bin\Debug\GenericDynamicQueue.pdb
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.csprojAssemblyReference.cache
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.csproj.CoreCompileInputs.cache
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.dll
+A:\Nocz\Proyectos\Libraries\GenericDynamicQueue\GenericDynamicQueue\obj\Debug\GenericDynamicQueue.pdb
